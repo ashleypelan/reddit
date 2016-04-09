@@ -47,7 +47,7 @@ app.controller('PostController', function($scope) {
     {
       title: 'Fried Cheese… with Club Sauce',
       author: 'George-Michael Bluth',
-      image: '../images/lucille.jpg',
+      image: '../images/cera.jpg',
       description: "For the same reason you should believe a hundred dollar bill is no more than a hundred pennies! And that is why Jesus was often referred to as the King of Kings. Queens. The King of Queens. Look at us, crying like a bunch of girls on the last day of camp. I am having a love affair with this ice cream sandwich. We have unlimited juice? This party is going to be off the hook. Excuse me, do these effectively hide my thunder?",
       numVotes: 5,
       datePosted: "2015-08-31T19:10:47.650Z",
@@ -65,7 +65,7 @@ app.controller('PostController', function($scope) {
     {
       title: 'Operation Hot Mother',
       author: 'Barry Zuckerkorn',
-      image: '../images/cera.jpg',
+      image: '../images/lucille.png',
       description: 'If this tableau I recreate, perhaps I can re-snare my mate. I think the only time you cooked for us was the morning Rosa\'s mom died. You gave us cereal in an ashtray. I think I might have someone who\'s going to circumvrent the law. Say goodbye to THESE! OH MY GOD, WE\'RE HAVING A FIRE… sale. Oh, the burning! My brother wasn\'t optimistic it could be done, but I didn\'t take "wasn\'t optimistic it could be done" for an answer.',
       numVotes: 1,
       datePosted: "2015-08-30T12:08:47.650Z",
@@ -74,8 +74,8 @@ app.controller('PostController', function($scope) {
     {
       title: 'There are dozens of us! DOZENS! ',
       author: 'Buster Bluth',
-      image: '../images/tobias.jpg',
-      description: "Oh, yeah, the $4,000 suit is holding the elevator for a guy who doesn't make that in 3 months. Come on! I'm an ideas man, Michael. I think I proved that with 'Fuck Mountain.' Annhog's coming? No, no, it's pronounced a-nal-ra-pist. It wasn't really the pronunciation that bothered me. Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap.",
+      image: '../images/buster.jpg',
+      description: "Oh, yeah, the $4,000 suit is holding the elevator for a guy who doesn't make that in 3 months. Come on! I'm an ideas man, Michael. I think I proved that. Annhog's coming? No, no, it's pronounced a-nal-ra-pist. It wasn't really the pronunciation that bothered me. Buster's in what we like to call a light to no coma. In layman's terms, it might be considered a very heavy nap.",
       numVotes: -3,
       datePosted: "2015-08-29T19:54:47.650Z",
       comments: []
@@ -83,7 +83,7 @@ app.controller('PostController', function($scope) {
     {
       title: 'Her?',
       author: 'Gene Parmesean',
-      image: '../images/buster.jpg',
+      image: '../images/tobias.jpg',
       description: "She keeps saying that God is going to show me a sign. The… something of my ways. Wisdom? It's probably wisdom. Everyone's laughing, and riding, and cornholing except Buster.  I'd rather be dead in California than alive in Arizona. A lady of the evening. Working girl. She turns illusions for money. We're just blowing through nap time, aren't we?",
       numVotes: 3,
       datePosted: "2015-08-26T03:39:47.650Z",
@@ -92,7 +92,7 @@ app.controller('PostController', function($scope) {
     {
       title: 'The Bob Loblaw Law Blog',
       author: 'Steve Holt',
-      image: '../images/lindz.png',
+      image: '../images/lindz.jpg',
       description: "Stop licking my hand, you horse's ass! Either I zip down, or he zips up, and that is a mighty long zipper on Mother's Cher jumpsuit. There's a new daddy in town. A discipline daddy. She's a girl, I need to teach her how to be a woman. Within her lies a queen. Let me out that queen. We need a name. Maybe Operation Hot Mother. No, let's try to top that. (They never did.) It's as Ann as the nose on plain's face. I should be in this Poof!",
       numVotes: 4,
       datePosted: "2015-08-24T03:39:21.650Z",
